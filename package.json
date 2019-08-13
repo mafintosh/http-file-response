@@ -1,6 +1,6 @@
 {
   "name": "http-file-response",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Send a file back as a HTTP response with support for range queries etc.",
   "main": "index.js",
   "dependencies": {
